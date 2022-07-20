@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Min-Gi-Jeong%20render&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MinGi Jeong&fontSize=90)
 ## 깃허브
 
 <img src="https://img.shields.io/badge/Java-F68315?style=for-the-badge&logo=Java&logoColor=white"/><a>
