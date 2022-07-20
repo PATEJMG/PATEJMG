@@ -1,7 +1,7 @@
 #정민기
 
 ## 깃허브
-<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/>1
+
 <img src="https://img.shields.io/badge/Java-F68315?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
