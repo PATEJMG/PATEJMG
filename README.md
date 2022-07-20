@@ -1,5 +1,4 @@
-![header](https://MIN GI JEONG.vercel.app/api?type=wave&color=auto&height=200&section=header&text=capsule%20render&fontSize=90)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Min Gi Jeong%20render&fontSize=90)
 
 ## 깃허브
 
