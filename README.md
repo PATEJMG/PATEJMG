@@ -1,4 +1,4 @@
-## 깃허브
+## 민기에요
 
 ⚡ skill ⚡<p>
 <img src="https://img.shields.io/badge/Java-F68315?style=for-the-badge&logo=Java&logoColor=white"/><a>
