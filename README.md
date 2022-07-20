@@ -14,7 +14,7 @@
  ---> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PATEJMG)](https://github.com/PATEJMG/github-readme-stats)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sith79)](https://solved.ac/sith79)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sith79)](https://solved.ac/sith79)
 
 <!---
 PATEJMG/PATEJMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
